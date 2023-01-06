@@ -75,17 +75,17 @@
 		<div id ="index">
 			<div class="item">
 				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="tvdth.png" width="80" height="90" hspace="20"></a>
+				<img src="tvdth.png" width="70" height="80" hspace="15"></a>
 				<p> DTH/Cable TV </p>
 			</div>
 			<div class="item">
 				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="googleplay.png" width="80" height="90" hspace="20"></a>
+				<img src="googleplay.png" width="70" height="80" hspace="15"></a>
 				<p> Google play </p>
 			</div>
 			<div class="item">
 				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="fasttag.png" width="80" height="90" hspace="20"></a>
+				<img src="fasttag.png" width="70" height="80" hspace="15"></a>
 				<p> FAST TAG </p>
 			</div>
 		</div><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -116,54 +116,7 @@
 				<img src="education.png" width="80" height="90" hspace="20"></a>
 				<p> Education </p>
 			</div>
-			<div class="mass">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="gas.png" width="80" height=="90" hspace="20"></a>
-				<p> Gas/Cylinders </p>
-			</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			
 			
 		</div>
-		<h3><center> Finance & Tax </center></h3>
-		<div id="text">
-			<div class="alpha">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="insurance.png" width="80" height=="90" hspace="20"></a>
-				<p> Insurance</p>
-			</div>
-			<div class="alpha">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="emi.jpg"width="80" height=="90" hspace="20"></a>
-				<p> Loan / EMI </p>
-			</div>
-			<div class="alpha">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="creditcard.png" width="80" height=="90" hspace="20"></a>
-				<p> Credit card </p>
-			</div>
-			<div class="alpha">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="recurringdeposit.png" width="80" height=="90" hspace="20"></a>
-				<p> Recurring Deposit </p>
-			</div>
-		</div><br><br><br><br><br><br><br><br><br><br><br>
-		<h3><center> Others </center></h3>
-		<div id="gamma">
-			<div class="beta">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="donation.jpeg" width="80" height=="90" hspace="20"></a>
-				<p> Denotion </p>
-			</div>
-			<div class="beta">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="hospital.png" width="80" height=="90" hspace="20"></a>
-				<p> Hospital </p>
-			</div>
-			<div class="beta">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="housingsociety.png" width="80" height=="90" hspace="20"></a>
-				<p> Housing Society </p>
-			</div>
-		</div>
 		
-	</body>
-</html>
