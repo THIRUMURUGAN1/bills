@@ -83,11 +83,7 @@
 				<img src="googleplay.png" width="70" height="80" hspace="15"></a>
 				<p> Google play </p>
 			</div>
-			<div class="item">
-				<a href="https://thirumurugan1.github.io/billspay/">
-				<img src="fasttag.png" width="70" height="80" hspace="15"></a>
-				<p> FAST TAG </p>
-			</div>
+			
 		</div><br><br><br><br><br><br><br><br><br><br><br><br><br>
 		<h3><center> Utility Bills</center></h3>
 		<div id="value">
