@@ -68,6 +68,7 @@
 		</style>
 	</head>
 	<body>
+	<center>
 		<h1><center> Bills Payment </center></h1>
 		<h2><center> Payment catagories </center></h2>
 		<h3><center> Recharge </center></h3>
@@ -87,7 +88,7 @@
 				<img src="fasttag.png" width="80" height="90" hspace="20"></a>
 				<p> FAST TAG </p>
 			</div>
-		</div><br><br><br><br><br><br><br><br><br><br>
+		</div><br><br><br><br><br><br><br><br><br><br><br><br><br>
 		<h3><center> Utility Bills</center></h3>
 		<div id="value">
 			<div class="mass">
